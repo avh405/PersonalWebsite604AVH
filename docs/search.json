@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "This project sought to analyze the global trends in public interest for major cancers prevalent among international and domestic populations. Utilizing Wikipedia’s API for data and Python to perform\n(Incomplete) View Project 1 File Here"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#project-1-international-public-interest-in-major-cancer-in-progress",
+    "href": "projects.html#project-1-international-public-interest-in-major-cancer-in-progress",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "This project sought to analyze the global trends in public interest for major cancers prevalent among international and domestic populations. Utilizing Wikipedia’s API for data and Python to perform\n(Incomplete) View Project 1 File Here"
+  },
+  {
+    "objectID": "projects.html#project-2-framing-deregulation-in-trumps-environmnetal-executive-orders-and-speeches",
+    "href": "projects.html#project-2-framing-deregulation-in-trumps-environmnetal-executive-orders-and-speeches",
+    "title": "Projects",
+    "section": "Project 2: Framing Deregulation in Trump’s Environmnetal Executive Orders and Speeches",
+    "text": "Project 2: Framing Deregulation in Trump’s Environmnetal Executive Orders and Speeches\nFollowing Donald Trump’s presidential inauguration in early 2025, his public speeches and released executive orders on enviromental matters from 2017 to 2025 were examined to see how the language of the Trump administration frames energy, climate, and regulatory priorities. Within R, dictionary based text as data approaches were utilized to reveal patterns in energy and environment topics. The results demonstrated a pattern of dominate language around the development of fossil fuel while collaterally sacrificing environmental protection\nView Project 2 PDF Here"
   },
   {
     "objectID": "index.html",
@@ -19,5 +26,33 @@
     "title": "About Me",
     "section": "",
     "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\nMy goals for the next few years include:\n\nStrengthening my ability to analyze complex data, become proficient in statistical programming, and gain exposure to the sector of public health.\nAdditionally, I am most intersted in working with projects that emphasize epidemology and biostatistics. In these domains, I aspire to use analytical and related tools to help inform decision-making of concerns in public health."
+  },
+  {
+    "objectID": "index.html#educaton",
+    "href": "index.html#educaton",
+    "title": "About Me",
+    "section": "Educaton",
+    "text": "Educaton\nBachelors of Arts, Psychology, University of Massachusetts Lowell\n\nRelevant Coursework: Biostatistics, Research Methods, Biology I"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "About Me",
+    "section": "Resume",
+    "text": "Resume\nClick here to view my resume!"
+  },
+  {
+    "objectID": "index.html#dashboard",
+    "href": "index.html#dashboard",
+    "title": "About Me",
+    "section": "Dashboard",
+    "text": "Dashboard\nView My Dashboard"
   }
 ]

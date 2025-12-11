@@ -4,6 +4,8 @@ about:
   id: me
   template: broadside
   image: img/profile.png
+  
+Astrid Van Haren is a current 
 ---
 
 :::{#me}

@@ -2,8 +2,16 @@
 title: "Projects"
 ---
 
-## Project 1
+## Project 1: International Public Interest in Major Cancer (In-Progress)  
 
-## Project 2
+This project sought to analyze the global trends in public interest for major cancers prevalent among international and domestic populations. Utilizing Wikipedia's API for data and Python to perform 
 
-## Project 3
+(Incomplete)
+[View Project 1 File Here]()
+
+
+## Project 2: Framing Deregulation in Trump's Environmnetal Executive Orders and Speeches
+
+Following Donald Trump's presidential inauguration in early 2025, his public speeches and released executive orders on enviromental matters from 2017 to 2025 were examined to see how the language of the Trump administration frames energy, climate, and regulatory priorities. Within R, dictionary based text as data approaches were utilized to reveal patterns in energy and environment topics. The results demonstrated a pattern of dominate language around the development of fossil fuel while collaterally sacrificing environmental protection 
+
+[View Project 2 PDF Here](Van Haren Final project.pdf){target="_blank"}
