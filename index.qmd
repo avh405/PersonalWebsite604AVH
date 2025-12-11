@@ -1,20 +1,42 @@
 ---
 title: "About Me"
+format:
+  html:
+    self-contained: true
 about:
   id: me
   template: broadside
-  image: img/profile.png
-  
-Astrid Van Haren is a current 
 ---
+
+<img src="pro_shot.jpg" alt="Astrid Van Haren" width="400px" style="border-radius:50%;" />
+
 
 :::{#me}
 
+Hello! My name is Astrid Van Haren. I am currently a studying data analytics and computational social science at the University of Massachusetts Amherst. My primary academic interests are public health, 
+Outside of school, I enjoy spending time outdoors, reading, and gardening, and ultimately hope to pursue a career that lies at the intersection of public health, community impact, and evidence based decision making. 
+
 ## Goals
+My goals for the next few years include: 
 
-## Education
+- Strengthening my ability to analyze complex data, become proficient in statistical programming, and gain exposure to the sector of public health. 
 
-## Experience
+- Additionally, I am most intersted in working with projects that emphasize epidemology and biostatistics. In these domains, I aspire to use analytical and related tools to help inform decision-making of concerns in public health.  
+
+
+## Educaton
+
+**Bachelors of Arts**, Psychology, University of Massachusetts Lowell
+
+- Relevant Coursework: Biostatistics, Research Methods, Biology I
+
+
+## Resume 
+[Click here to view my resume!](Astrid Van Haren Resume.pdf){target="_blank"}
+
+## Dashboard
+
+[View My Dashboard](file:///C:/Users/astrid/Documents/DACSS%20Courses/Assignment-5-Dashboard.html)
 
 :::
 
